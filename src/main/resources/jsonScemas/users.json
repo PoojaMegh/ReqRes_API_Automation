@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "users": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "active": {
+              "type": "boolean"
+            },
+            "name": {
+              "type": "string"
+            },
+            "address": {
+              "type": "string"
+            },
+            "contactNum": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "contactNum",
+            "address"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "users"
+  ]
+}

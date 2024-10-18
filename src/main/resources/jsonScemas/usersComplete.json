@@ -1,0 +1,300 @@
+{
+
+  "type": "object",
+  "properties": {
+    "users": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            },
+            "address": {
+              "type": "string"
+            },
+            "contactNum": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "address",
+            "contactNum"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            },
+            "address": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "address"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            },
+            "contactNum": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "contactNum"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "address",
+            "contactNum"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active",
+            "address",
+            "contactNum"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "active"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "users"
+  ]
+}
